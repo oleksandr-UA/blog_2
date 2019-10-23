@@ -6,6 +6,9 @@
       <change afterPath="$PROJECT_DIR$/blog_2/settings.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blog_2/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blog_2/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/post/post_single.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/post/post_single.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blog_2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QTFwg2SVpn8rUeHATM58VWrdcp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
